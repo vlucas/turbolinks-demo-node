@@ -1,0 +1,17 @@
+{
+  "name": "turbolinks-node-demo",
+  "version": "1.0.0",
+  "description": "Demo server for Turbolinks implemented in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "ejs-mate": "^2.3.0",
+    "express": "^4.13.4"
+  }
+}
